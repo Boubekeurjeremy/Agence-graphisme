@@ -38,12 +38,13 @@ nav li{
     align-items:center;
 }
 #banniere-container img{
-    height:25%;
+    height:13%;
     
 }
 h1{
     color:white;
-    font-weight: 400;
+    font-weight:400
+    font-size:26 px;
 
 }
 
