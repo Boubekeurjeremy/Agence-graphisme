@@ -1,7 +1,21 @@
 body{
-    font-family:roboto;
+    font-family:roboto,sans-serif;
+    margin:0 ;
     
 }
-p{
-    color:blue;
+/* header */
+nav{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav img{
+    height:80 px;
+}
+nav ul{
+    display:flex;
+    list-style-type: none;
+}
+nav li{
+    margin:0 10px 0 20px;
 }
