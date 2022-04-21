@@ -47,5 +47,27 @@ h1{
     font-size:26 px;
 
 }
+/*presentation*/
+#presentation{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    width:100%;
+    text-align:center;
+}
+#presentation-description{
+    max-width:700 px;
+}
+#information{
+    max-width:70%;
+    display:flex;
+}
+#information article{
+    padding:10 px;
+}
+#quote{
+    max-width:600px;
+}
+
 
 
