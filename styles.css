@@ -79,6 +79,32 @@ information p{
 #quote{
     max-width:600px;
 }
+/*footer*/
+footer{
+    background-color:blueviolet;
+    color:white;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+footer h2{
+    font-size:12px;
+}
+#footer-items{
+    width:100%;
+    display:flex;
+    justify-content: space-around;
+}
+#footer-social{
+    width:200px;
+    display:flex;
+    justify-content:space-between;
+    font-size:20px;
+    
+}
+#footer-test{
+    list-style-type: none;
+}
 
 
 
